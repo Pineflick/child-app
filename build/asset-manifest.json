@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chilp-app/static/css/main.7cf3c09d.css",
+    "main.js": "/chilp-app/static/js/main.e5c869d0.js",
+    "static/js/787.5ea32706.chunk.js": "/chilp-app/static/js/787.5ea32706.chunk.js",
+    "index.html": "/chilp-app/index.html",
+    "main.7cf3c09d.css.map": "/chilp-app/static/css/main.7cf3c09d.css.map",
+    "main.e5c869d0.js.map": "/chilp-app/static/js/main.e5c869d0.js.map",
+    "787.5ea32706.chunk.js.map": "/chilp-app/static/js/787.5ea32706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf3c09d.css",
+    "static/js/main.e5c869d0.js"
+  ]
+}
